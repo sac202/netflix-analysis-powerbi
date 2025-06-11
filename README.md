@@ -5,7 +5,6 @@
 
 The goal of this project is to analyze Netflix content data to uncover insights about release trends, content types, durations, genres, and global distribution. The dataset is cleaned using Python and Excel, and visualized using Power BI for clear and interactive insights.
 
----
 
 2. Tech Stack
 
@@ -13,7 +12,6 @@ The goal of this project is to analyze Netflix content data to uncover insights 
 - **Excel** – Initial data inspection and formatting  
 - **Power BI** – Interactive dashboard creation and visualization  
 
----
 
 3. Data Source
 
@@ -28,7 +26,6 @@ The goal of this project is to analyze Netflix content data to uncover insights 
   - Genre (Listed In)  
   - Date Added  
 
----
 
 4. Features / Highlights
 
@@ -41,7 +38,6 @@ The goal of this project is to analyze Netflix content data to uncover insights 
   - 👥 Most featured cast members  
 - Fully interactive visuals with filters by year, country, type, and genre
 
----
 
 5. Example Visuals
 
@@ -52,11 +48,6 @@ The goal of this project is to analyze Netflix content data to uncover insights 
 - Genre and Rating Distribution  
 - Movie vs TV Show Comparison  
 
----
 
-6. How to Use
 
-1. Clone or download this repository  
-2. Run the Python script or Jupyter Notebook for data cleaning  
-3. Open the `netflix_dashboard.pbix` file in Power BI  
-4. Explore insights using interactive visuals  
+
